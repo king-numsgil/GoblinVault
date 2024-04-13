@@ -8,8 +8,6 @@ The dominion of [[Marintha]] is an oceanic realm, its surface swathed in ceasele
 
 In this realm of perpetual oceans and immutable skies, where time itself seems to pause in reverence, the call to adventure echoes. Whether it be in the exploration of the mysterious deeps, the traversing of rare and secluded isles, or the unveiling of the arcane secrets of a planet in harmonious celestial ballet, Marintha stands as a siren to the souls of the brave and the curious, beckoning them to partake in its eternal saga.
 
-This is a test for Sync.
-
 ```calendarium
 calendar: After the Awakening
 ```

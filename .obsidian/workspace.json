@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "143078422311712f",
+        "id": "45b2be28fa9702cb",
         "type": "tabs",
         "children": [
           {
-            "id": "6ff2cec033aec207",
+            "id": "7d4d81525732c40c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "The New World/The New World.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,7 +164,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "6ff2cec033aec207",
+  "active": "7d4d81525732c40c",
   "lastOpenFiles": [
     "The New World/Timeline.md",
     "The New World/Events/The Astral Pulse.md",
