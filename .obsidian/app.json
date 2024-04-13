@@ -1,0 +1,11 @@
+{
+  "livePreview": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
+}

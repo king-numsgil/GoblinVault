@@ -1,0 +1,214 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "After the Awakening",
+      "description": "",
+      "id": "ID_b8d959d9199a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_2b8b6a1b5bb8"
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_f8d9eb289818"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_9a1b38899beb"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_d9d9b9d90898"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_fa3b1bbbeae9"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_19c9bb096b29"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_ba591a7bba98"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "January",
+            "length": 120,
+            "id": "ID_494bd9ea09a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "February",
+            "length": 120,
+            "id": "ID_8899bb98ea48",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "March",
+            "length": 120,
+            "id": "ID_88aaf819c83b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "April",
+            "length": 120,
+            "id": "ID_a9788b79bb2b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mai",
+            "length": 120,
+            "id": "ID_c8aa290aca08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "June",
+            "length": 120,
+            "id": "ID_69b979eb78ab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "July",
+            "length": 120,
+            "id": "ID_9a8ab87819bb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "August",
+            "length": 120,
+            "id": "ID_0b4b8aeb2a69",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "September",
+            "length": 120,
+            "id": "ID_bbc87a2bb81a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "October",
+            "length": 120,
+            "id": "ID_5ae9f97bfbdb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "November",
+            "length": 120,
+            "id": "ID_085a5a7afadb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "December",
+            "length": 120,
+            "id": "ID_48eb499b080b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Mirazul",
+            "cycle": 60,
+            "offset": 0,
+            "faceColor": "#7275e4",
+            "shadowColor": "#000",
+            "id": "ID_a83b59fbb93b"
+          },
+          {
+            "name": "Carminia",
+            "cycle": 200,
+            "offset": 54,
+            "faceColor": "#e23232",
+            "shadowColor": "#000",
+            "id": "ID_0aaa7879690b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 3
+      },
+      "current": {
+        "day": 43,
+        "month": 2,
+        "year": 501
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "YYYY-MM-DD"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_b8d959d9199a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 2,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}
