@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4114f4ad075e71a9",
+    "id": "2b9fd64e884cab90",
     "type": "split",
     "children": [
       {
-        "id": "6e9c567d4201c879",
+        "id": "1559cce3e4378c82",
         "type": "tabs",
         "children": [
           {
-            "id": "24d9e14ed822ca21",
+            "id": "eb8c6b405c3f139b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "45b5d0f6ee23f10e",
+    "id": "8b1fdc128d60e6ea",
     "type": "split",
     "children": [
       {
-        "id": "5d9863e19b0a7ee8",
+        "id": "3a939cee06733479",
         "type": "tabs",
         "children": [
           {
-            "id": "751dec84efd628f2",
+            "id": "06520e825100ba8e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "8b7d0488eefe1c1a",
+            "id": "1793d8348544ae75",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,104 +64,26 @@
     "width": 300
   },
   "right": {
-    "id": "78e260bcfe16a769",
+    "id": "7041cdb0da90c2d0",
     "type": "split",
-    "children": [
-      {
-        "id": "9c082e4328e076d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "99c64ec1e86bbe5e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "The New World/The New World.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "68336a1184541199",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "The New World/The New World.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "223f54912e26b7f1",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_b8d959d9199a",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 43,
-                    "month": 2,
-                    "year": 501
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
-            }
-          },
-          {
-            "id": "3aaa00cf061efe96",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "fa9b1be447d2d4da",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "The New World/The New World.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 587.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "24d9e14ed822ca21",
-  "lastOpenFiles": [
-    "The New World/The New World.md",
-  ]
+  "active": "eb8c6b405c3f139b",
+  "lastOpenFiles": []
 }
