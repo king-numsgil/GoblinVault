@@ -1,5 +1,4 @@
 [
-  "calendarium",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
@@ -13,5 +12,6 @@
   "obsidian-style-settings",
   "dataview",
   "new-tab-default-page",
-  "yet-another-obsidian-synchronizer"
+  "yet-another-obsidian-synchronizer",
+  "calendarium"
 ]
