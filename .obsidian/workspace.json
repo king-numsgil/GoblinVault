@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a60c4ac74a23d8fb",
+        "id": "815d0e792250ac82",
         "type": "tabs",
         "children": [
           {
-            "id": "d9950caaf250f992",
+            "id": "06592645d647c7d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -119,17 +119,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d9950caaf250f992",
-  "lastOpenFiles": []
+  "active": "06592645d647c7d5",
+  "lastOpenFiles": [
+    "The New World/Timeline.md",
+    "The New World/The New World.md"
+  ]
 }
